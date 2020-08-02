@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jiayi Shen
 
 # Username (this should match the folder name)
 authors:
@@ -10,28 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Texas A&M University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include .
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Learning to Optimize
+- Model Compression
+- Computer Vision
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD Student in Computer Science
+    institution: Texas A&M University
+    year: 2019
+  - course: Master Stduent in Computer Science
+    institution: Texas A&M University
     year: 2009
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
