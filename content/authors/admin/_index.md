@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD Student in Computer Science
     institution: Texas A&M University
-    year: 2019
-  - course: Master Stduent in Computer Science
+    year: 2020 - Present
+  - course: Master Student in Computer Science
     institution: Texas A&M University
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2018 - 2020
+  - course: BSc in Statistics
+    institution: University of Science and Technology of China
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
