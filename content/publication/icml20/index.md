@@ -13,11 +13,11 @@ publishDate: 2020-08-02T20:42:00-05:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "International Conference on Machine Learning"
+publication_short: "ICML"
 
 abstract: ""
 
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://proceedings.icml.cc/static/paper_files/icml/2020/3112-Paper.pdf
 url_code:
 url_dataset:
 url_poster:
