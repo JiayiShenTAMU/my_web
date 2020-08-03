@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. Student in Computer Science
     institution: Texas A&M University
-    year: 2020 - Present
+    year: 2018 - Present
   # - course: Master Student in Computer Science
   #   institution: Texas A&M University
   #   year: 2018 - 2020
