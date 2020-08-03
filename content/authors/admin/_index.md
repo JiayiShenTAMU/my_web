@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD Student in Computer Science
+  - course: Ph.D. Student in Computer Science
     institution: Texas A&M University
     year: 2020 - Present
-  - course: Master Student in Computer Science
-    institution: Texas A&M University
-    year: 2018 - 2020
+  # - course: Master Student in Computer Science
+  #   institution: Texas A&M University
+  #   year: 2018 - 2020
   - course: BSc in Statistics
     institution: University of Science and Technology of China
-    year: 2017
+    year: 2013 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
