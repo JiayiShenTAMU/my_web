@@ -41,5 +41,13 @@ date_format = "Jan 2006"
   date_end = "2019-08-20"
   description = """
   """
-
+[[experience]]
+  title = "Research Assistant"
+  company = "University of Science and Technology of China"
+  company_url = ""
+  location = "Hefei,China"
+  date_start = "2017-06-20"
+  date_end = "2018-05-20"
+  description = """
+  """
 +++
