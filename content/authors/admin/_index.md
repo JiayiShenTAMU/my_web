@@ -70,6 +70,6 @@ email: "asjyjya-617@tamu.edu"
 # - Researchers
 # - Visitors
 ---
-Jiayi Shen is a Ph.D. student at Texas A&M University, under the supervision of Dr. Zhangyang (Atlas) Wang,[VITA Group](https://vita-group.github.io/group.html). Her research interests include Learning to Optimize, Model Compression, and Computer Vision.
+Jiayi Shen is a Ph.D. student at Texas A&M University, under the supervision of Dr. Zhangyang (Atlas) Wang, at [VITA Group](https://vita-group.github.io/group.html). Her research interests include Learning to Optimize, Model Compression, and Computer Vision.
 
 
