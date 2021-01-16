@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://openreview.net/pdf?id=nkIDwI6oO4_
-url_code:
+url_code: https://github.com/VITA-Group/L2O-Minimax
 url_dataset:
 url_poster:
 url_project:
