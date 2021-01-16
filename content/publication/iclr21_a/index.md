@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "[ICML'20] Eliminating the Invariance on the Loss Landscape of Linear Autoencoders"
-authors: [R. Oftadeh, J. Shen*, Z. Wang, and D. Shell]
-date: 2020-08-02T20:42:00-05:00
+title: "[ICLR'21] Learning a Minimax Optimizer: A Pilot Study"
+authors: [J. Shen*, X. Chen*, H. Heaton*, T. Chen, J. Liu, W. Yin, Z. Wang]
+date: 2021-03-17T20:42:00-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-08-02T20:42:00-05:00
+publishDate: 2021-03-17T20:42:00-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,14 +16,13 @@ publishDate: 2020-08-02T20:42:00-05:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Machine Learning"
-publication_short: "ICML"
+publication: "International Conference on Learning Representations"
+publication_short: "ICLR"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "Optimizing the conventional Mean Square Error (MSE) loss results in a decoder matrix that spans the principal subspace of the sample covariance of
-the data, but, owing to an invariance that cancels out in the global map, it will fail to identify the exact eigenvectors. We show here that our proposed loss function eliminates this issue, so the decoder converges to the exact ordered unnormalized eigenvectors of the sample covariance matrix."
+summary: "We introduce the learning to optimize (L2O) methodology to the minimax problems for the first time, and addresses its accompanying unique challenges. We present Twin L2O, the first dedicated minimax L2O framework consisting of two LSTMs for updating min and max variables, respectively. We then discuss a crucial concern of Twin-L2O, i.e., its inevitably limited generalizability to unseen optimizees, and present two complementary strategies."
 
 tags: []
 categories: []
@@ -37,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: http://proceedings.mlr.press/v119/oftadeh20a/oftadeh20a.pdf
+url_pdf: https://openreview.net/pdf?id=nkIDwI6oO4_
 url_code:
 url_dataset:
 url_poster:
