@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://openreview.net/pdf?id=nkIDwI6oO4_
+url_pdf: 
 url_code: https://github.com/VITA-Group/L2O-Minimax
 url_dataset:
 url_poster:
