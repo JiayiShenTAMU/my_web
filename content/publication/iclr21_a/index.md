@@ -3,7 +3,7 @@
 
 title: "[ICLR'21] Learning a Minimax Optimizer: A Pilot Study"
 authors: [J. Shen*, X. Chen*, H. Heaton*, T. Chen, J. Liu, W. Yin, Z. Wang]
-date: 2021-03-17T20:42:00-05:00
+date: 2021-01-15T20:42:00-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
