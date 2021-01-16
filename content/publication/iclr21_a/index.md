@@ -7,7 +7,7 @@ date: 2021-01-15T20:42:00-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-03-17T20:42:00-05:00
+publishDate: 2021-01-15T20:42:00-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
