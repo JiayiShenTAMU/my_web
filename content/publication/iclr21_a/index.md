@@ -39,7 +39,7 @@ featured: false
 url_pdf: https://openreview.net/pdf?id=nkIDwI6oO4_
 url_code: https://github.com/VITA-Group/L2O-Minimax
 url_dataset:
-url_poster:https://drive.google.com/file/d/1KsOlQLpaeDn-Erfbsqo7HdvFwQPTqM6D/view?usp=sharing
+url_poster: https://drive.google.com/file/d/1KsOlQLpaeDn-Erfbsqo7HdvFwQPTqM6D/view?usp=sharing
 url_project:
 url_slides:
 url_source:
