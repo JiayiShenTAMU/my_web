@@ -37,9 +37,9 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://openreview.net/pdf?id=BM---bH_RSh
-url_code: 
+url_code: https://github.com/VITA-Group/UMEC
 url_dataset:
-url_poster:
+url_poster:https://drive.google.com/file/d/1WIL1LhO45IrUuzwlaWvtuXDPdMKeYckC/view?usp=sharing
 url_project:
 url_slides:
 url_source:
